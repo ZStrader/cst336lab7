@@ -1,0 +1,20 @@
+[15-Apr-2019 07:03:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error' in /home/ubuntu/workspace/labs/7/dashboard/api/delete.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/labs/7/dashboard/api/delete.php(14): PDOStatement->fetchAll(2)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/7/dashboard/api/delete.php on line 14
+[15-Apr-2019 07:04:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error' in /home/ubuntu/workspace/labs/7/dashboard/api/delete.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/labs/7/dashboard/api/delete.php(14): PDOStatement->fetchAll(2)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/7/dashboard/api/delete.php on line 14
+[15-Apr-2019 07:04:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error' in /home/ubuntu/workspace/labs/7/dashboard/api/delete.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/labs/7/dashboard/api/delete.php(14): PDOStatement->fetchAll(2)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/7/dashboard/api/delete.php on line 14
+[15-Apr-2019 07:04:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error' in /home/ubuntu/workspace/labs/7/dashboard/api/delete.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/labs/7/dashboard/api/delete.php(14): PDOStatement->fetchAll(2)
+#1 {main}
+  thrown in /home/ubuntu/workspace/labs/7/dashboard/api/delete.php on line 14
